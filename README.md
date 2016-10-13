@@ -3,7 +3,7 @@
 
 show Gif：
 
-![](http://ac-mhke0kuv.clouddn.com/6c7c59da2bbb70a14a3f.gif)
+![](https://raw.githubusercontent.com/cxmscb/android-MaterialEditText/master/edittext.gif)
 
 more Detail:
 
